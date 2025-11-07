@@ -16,3 +16,4 @@ TIPS is an experimental project to replace the p2p mempool with a collection of 
 - Add dependencies to the Cargo.toml in the root and reference them in the crate cargo files
 - Always use the latest dependency versions. Use https://crates.io/ to find dependency versions when adding new deps
 - For logging use the tracing crate with appropriate levels and structured logging
+- dont forget
